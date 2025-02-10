@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA PROGRAMMING.
 - 🌱 I’m currently learning Spring AND MySql.
 - 💞️ I’m looking to collaborate on JAVA PROJECTS.
-- 📫 How to reach me https://www.linkedin.com/in/gopaldhangar8532/
+- 📫 How to reach me https://www.linkedin.com/in/gopaldhangar
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
